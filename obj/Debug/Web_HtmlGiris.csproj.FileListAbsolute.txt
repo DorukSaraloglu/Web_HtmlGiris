@@ -1,0 +1,112 @@
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\Web_HtmlGiris.dll.config
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\Web_HtmlGiris.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\Web_HtmlGiris.pdb
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\csc.exe
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\csc.exe.config
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\csc.rsp
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\csi.exe
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\csi.exe.config
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\csi.rsp
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.Managed.Core.targets
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.AppContext.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Collections.Immutable.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Console.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.IO.Compression.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.IO.FileSystem.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.IO.Pipes.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Reflection.Metadata.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.AccessControl.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.Claims.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.Principal.Windows.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.ValueTuple.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Xml.XmlDocument.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Xml.XPath.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\vbc.exe
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\vbc.exe.config
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\vbc.rsp
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\VBCSCompiler.exe
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\VBCSCompiler.exe.config
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\obj\Debug\Web_HtmlGiris.csprojAssemblyReference.cache
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\obj\Debug\Web_HtmlGiris.csproj.CoreCompileInputs.cache
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\obj\Debug\Web_HtmlGiris.csproj.CopyComplete
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\obj\Debug\Web_HtmlGiris.dll
+E:\1. GRUP\Web_HtmlGiris\Web_HtmlGiris\obj\Debug\Web_HtmlGiris.pdb
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\Web_HtmlGiris.dll.config
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\Web_HtmlGiris.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\Web_HtmlGiris.pdb
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\csc.exe
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\csc.exe.config
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\csc.rsp
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\csi.exe
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\csi.exe.config
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\csi.rsp
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.Managed.Core.targets
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.AppContext.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Collections.Immutable.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Console.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.IO.Compression.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.IO.FileSystem.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.IO.Pipes.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Reflection.Metadata.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.AccessControl.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.Claims.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Security.Principal.Windows.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.ValueTuple.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Xml.XmlDocument.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Xml.XPath.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\vbc.exe
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\vbc.exe.config
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\vbc.rsp
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\VBCSCompiler.exe
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\roslyn\VBCSCompiler.exe.config
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\obj\Debug\Web_HtmlGiris.csprojAssemblyReference.cache
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\obj\Debug\Web_HtmlGiris.csproj.CoreCompileInputs.cache
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\obj\Debug\Web_HtmlGiris.csproj.CopyComplete
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\obj\Debug\Web_HtmlGiris.dll
+G:\WEB\Web_HtmlGiris\Web_HtmlGiris\obj\Debug\Web_HtmlGiris.pdb
